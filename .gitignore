@@ -16,3 +16,6 @@ api.json
 # Binaries
 build/
 *.obj
+
+Addons/
+demo/
